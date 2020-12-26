@@ -1,0 +1,21 @@
+/* Add here all your css styles (customizations) */
+.une-date .date {
+  text-align: right;
+  margin-right: 10px;
+  position: relative;
+}
+
+.une-date .date .decompte {
+  color: #c80b0e;
+  font-size: 12px;
+  line-height: 12px;
+  position: absolute;
+  right: 0;
+  top: -14px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.une-date .date span {
+  display: block;
+}
